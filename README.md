@@ -15,3 +15,32 @@
 
 ⚙️ Tech Stack:
 Python, Pandas, SQL, SQL Server, SQLAlchemy, Power BI, Excel, Matplotlib, Seaborn
+
+## Sample Insights
+-USA consistently dominates the top ranks with the most high-performing universities.
+-United Kingdom, Germany, and Australia also feature prominently in the top 100.
+-Harvard University, MIT, and Stanford frequently rank in the top 3 globally.
+-Overall university scores are gradually increasing, indicating global improvements in research, teaching, and industry collaboration.
+-Some Asian institutions show rapid upward trends, especially in publications and patents.
+-Most Represented Country: USA
+-Strong positive correlation between score and both citations & research
+
+## 📊 Visualization Insights
+-Bar Charts: Show top 10 institutions by scores in 2012 & 2014
+-Scatter Plots: Reveal strong linear relationships between quality_of_education and faculty
+-Box/Violin Plots: Display distribution of scores and alumni employment across years
+-Heatmaps: Visualized correlation matrix across numeric features
+-Area & Line Charts: Tracked score trends for specific universities like Tokyo
+
+## 📁 Files Included
+- worlduniversity.pbix – Power BI report
+- images/ – Screenshots of Power BI report
+- sample-data/ - Excel workbook
+- world_university.ipynb - jupyter source file
+
+## 👤 Author
+**[Samarth Melsingare]**  
+Aspiring Data Analyst | Excel • Power BI • SQL • Basic Python 
+[LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Samarth-Melsingare/World-University-Ranking)
+
+## 🔗 Ho
